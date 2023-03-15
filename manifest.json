@@ -1,0 +1,17 @@
+{
+  "short_name": "Chetan Saini",
+  "name": "Chetan Saini",
+  "description": "Hello! My name is Chetan Saini and I am front-end web developer.",
+  "icons": [
+    {
+      "src": "imgs/144.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "#0F0F0F",
+  "background_color": "#0F0F0F"
+}
